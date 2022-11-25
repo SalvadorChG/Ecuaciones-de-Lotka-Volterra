@@ -1,5 +1,4 @@
-# Ecuaciones de Lotka-Volterra
-## Instituto Tecnológico y de Estudios Superiores de Monterrey 
+# Ecuaciones de Lotka-Volterra / Instituto Tecnológico y de Estudios Superiores de Monterrey 
 ## Modelación de sistemas con ecuaciones diferenciales
 ## Integrantes: 
 Salvador Chávez González A01746369
