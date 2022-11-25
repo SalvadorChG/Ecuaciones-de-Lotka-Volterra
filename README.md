@@ -7,7 +7,13 @@ Eduardo Juárez A01749005
 Arnulfo Romero A01783149
 Renata Caballero A01754428
 
-En este repositorio, se integran las fases 1, 2, y 3 del reto de las ecuaciones de Lotka-Volterra sobre el modelo de presa-depredador. 
+## Dinámicas de crecimiento de poblaciones
+
+La evolución en el tiempo de muchos fenómenos naturales y humanos puede ser modelada por medio de ecuaciones diferenciales. Por ejemplo, la dispersión de una noticia, la evolución de los precios de acciones de la bolsa, las cantidades físicas que describen un proceso industrial, etc.
+
+En este reto, se considera la dinámica de interacción de poblaciones presa-predador estudiando las ecuaciones de Lotka-Volterra. Aunque este sistema de ecuaciones sea muy simple y no sea suficiente para describir de manera precisa y detallada poblaciones reales, son úitles para hacer consideraciones y estudios cualitativos de fenómenos actuales, como por ejemplo la sobreexplotación pesquera.
+
+A continuación, se presentan tres fases para resolver el modelo de presa-depredador utilizando las ecuaciones de Lotka-Volterra y métodos numéricos. 
 
 ## Fase 1 
 En esta fase, se buscó información sobre el sistema de ecuaciones de Lotka y Volterra y para encontrar sus puntos de equilibrio de manera analítica. Posteriormente, se dedujo el valor de las constantes a partir de datos reales a través de cinco actividades que se pueden visualizar en los archivos de este repositorio. 
