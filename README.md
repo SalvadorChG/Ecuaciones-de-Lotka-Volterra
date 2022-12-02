@@ -24,5 +24,4 @@ Para la segunda fase, se consideró que el estudio de las dinámicas de las pobl
 
 ## Fase 3
 
-
-
+En esta fase, se trabajó en una solución estocástica de las ecuaciones de Lotka-Volterra. El modelo matemático que se usó es una cadena de Markov continua. Se consideró un ecosistema donde hay presas (presas, P) y depredadores (D).
